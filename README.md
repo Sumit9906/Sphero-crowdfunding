@@ -1,24 +1,11 @@
 # Sphero
 
-**Live Site:** [https://zkfund.vercel.app/](https://zkfund.vercel.app/)  
-
-## Preview
-
-<img src="./public/crowdfunding 1.png" width="400">
-
-<img src="./public/crowdfunding 1.png" width="400"> 
-
-<img src="./public/crowdfunding 3.png" width="400">
-
-<img src="./public/crowdfunding 4.png" width="400">  
-
-<img src="./public/crowdfunding 5.png" width="400">
-
-<img src="./public/crowdfunding 6.png" width="400">
+**Live Site:**
+https://resilient-cat-061c86.netlify.app/
 
 ## Description
 
-zkFund is a Decentralized crowdfunding platform built on zkEVM allowing creators to raise funds for projects in a transparent and secure manner.
+Sphero is a Decentralized crowdfunding platform built on EVM allowing creators to raise funds for projects in a transparent and secure manner.
 
 ## Features
 
@@ -54,30 +41,3 @@ zkFund is a Decentralized crowdfunding platform built on zkEVM allowing creators
 - [Hardhat](https://hardhat.org/) - Ethereum development environment
 - [Solidity](https://docs.soliditylang.org/en/v0.8.17/) - Ethereum smart contract language
 - [React Hot Toast](https://react-hot-toast.com/) - Notifications
-
-# About the Developer
-
-Hello everyone, myself **Mohammad Ayaan Siddiqui** from India. I am a Full Stack WEB3 developer and a **DECENTRALIZATION MAXI**. Currently working as TECHNICAL CO-FOUNDER in a web3 startup based in Netherlands.
-
-
-<p align="center">
-<img src="./public/profile.jpg" alt="profile" style="height: 400px; width:500px;"/>
-</p>
-
-If you are interested in either of the topics or building in similar skills, connect with me below:-
-
-1.  ![Alt text](public/taplink.png "Taplink") [My Taplink Dashboard](https://moayaan.taplink.ws/)
-
-
-2. ![Alt text](public/linktree.png "linktree") [My Linktree with ALL SOCIALS](https://linktr.ee/ayaaneth)
-
-3. ![Alt text](public/github.png "github") [Connect on Github](https://github.com/moayaan1911)
-
-4. ![Alt text](public/linkedin.png "linkedin") [Connect on Linkedin](www.linkedin.com/in/ayaaneth)
-5. ![Alt text](public/hashnode.png "dev") [Connect on Hashnode](https://moayaan.hashnode.dev/)
-
-6. ![Alt text](public/twitter.png "twitter") [Connect on Twitter](https://www.twitter.com/usdisshitcoin)
-
-7. ![Alt text](public/telegram.png "telegram") [Connect on Telegram](https://t.me/usdisshitcoin)
-
-8. ![Alt text](public/dev.png "dev") [Connect on dev.to](https://dev.to/moayaan1911)
