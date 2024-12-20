@@ -1,7 +1,7 @@
 # Sphero
 
 **Live Site:**
-https://resilient-cat-061c86.netlify.app/
+[https://sphero.netlify.app](https://sphero.netlify.app)
 
 ## Description
 
