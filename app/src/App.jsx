@@ -7,7 +7,7 @@ import { useAddress } from '@thirdweb-dev/react';
 import ActiveCampaigns from './components/ActiveCampaigns';
 import InactiveCampaigns from './components/InactiveCampaigns';
 import Footer from './components/Footer';
-const contractAddress = '0xb41Fd7b7cDd12bDF28cB059FE9E7241B7b3AAe66';
+const contractAddress = '0xd46193227a91fe59716679195fe0460d43feb326';
 const abi = [
   {
     anonymous: false,
@@ -313,7 +313,7 @@ export default function App() {
         const chainId = await window.ethereum.request({
           method: 'eth_chainId',
         });
-
+        console.log(chainId)
         // Check if connected to a different network (not zkEVM testnet)
         if (chainId !== desiredChainId) {
           // ChainId of zkEVM testnet is '0x03EF'

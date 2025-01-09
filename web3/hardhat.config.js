@@ -37,10 +37,10 @@ module.exports = {
     //   url: process.env.RPC_URL,
     //   accounts: [process.env.PRIVATE_KEY],
     // },
-    // bsctestnet: {
-    //   url: process.env.RPC_URL,
-    //   accounts: [process.env.PRIVATE_KEY],
-    // },
+    bsctestnet: {
+      url: process.env.RPC_URL,
+      accounts: [process.env.PRIVATE_KEY],
+    },
     // zkevm: {
     //   url: process.env.RPC_URL,
     //   accounts: [process.env.PRIVATE_KEY],
